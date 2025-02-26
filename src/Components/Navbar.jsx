@@ -29,7 +29,7 @@ function Navbar() {
         className="bg-blue-500 font-mono cursor-pointer text-white px-4 py-2 rounded hover:bg-blue-600"
         onClick={() =>
           (window.location.href =
-            "mailto:krushna.webdev01@gmail.com?subject=Hiring%20Enquiry&body=Hello%20Krushna,")
+            "mailto:krushna.webdev26@gmail.com?subject=Hiring%20Enquiry&body=Hello%20Krushna,")
         }
       >
         HIRE ME

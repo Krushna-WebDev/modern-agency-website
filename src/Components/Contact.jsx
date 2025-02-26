@@ -50,13 +50,13 @@ const Contact = () => {
         <div className="text-center mt-10">
           <h3 className="text-xl font-semibold text-gray-700">Or connect with me on:</h3>
           <div className="flex justify-center space-x-6 mt-4">
-            <a href="https://www.linkedin.com/" 
+            <a href="https://www.linkedin.com/in/krushna-web-dev-2b347b353" 
                target="_blank" 
                rel="noopener noreferrer"
                className="text-blue-500 hover:text-blue-700 text-2xl font-semibold">
               🌐 LinkedIn
             </a>
-            <a href="mailto:krushna.webdev01@gmail.com" className="text-gray-900 hover:text-gray-700 text-2xl font-semibold">
+            <a href="mailto:krushna.webdev26@gmail.com" className="text-gray-900 hover:text-gray-700 text-2xl font-semibold">
               📩 Email
             </a>
             <a href="#" className="text-black hover:text-gray-700 text-2xl font-semibold">

@@ -2,7 +2,7 @@
 🔗 [Click Here](https://modernagency-web.netlify.app/)  
 
 ## 🔗 Connect with me  
-[LinkedIn](https://www.linkedin.com/in/krushna-web-dev-2b347b353)  
+🔗 [LinkedIn](https://www.linkedin.com/in/krushna-web-dev-2b347b353)  
 
 ## 🛠 Tech Stack  
 - ⚛️ React.js  
